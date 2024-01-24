@@ -1,0 +1,108 @@
+p{
+    color: green;
+}
+.box{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+    float: left;
+}
+.box1{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+    float: left;
+}
+.box2{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+    float: left;
+}
+.box3{
+    width: 300px;
+    height: 300px;
+    background-color: purple;
+    float: left;
+}
+.box4{
+    width: 300px;
+    height: 300px;
+    background-color: pink;
+    float: left;
+}
+#box{
+    width: 450px;
+    height:500px;
+    margin: 30px;
+    border: red solid 2px;
+    padding: 10px;
+}
+#topbox{
+    height: 35px;
+    width: 450px;
+    border:2px solid black;
+    float:right;
+    text-align: center;
+    justify-content: center;
+}
+#leftmid{
+    height: 235px;
+    width: 235px;
+    border: solid 2px purple;
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+}
+#rightmid{
+    height: 105px;
+    width: 197px;
+    border: solid 2px blue;
+    float: right;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
+#rightmid2{
+    height: 105px;
+    width: 197px;
+    border: solid 2px yellow;
+    margin-top: 10px;
+    display: inline-block;
+    text-align: center;
+    justify-content: center;
+    
+}
+#left3row{
+height: 85px;
+width:150px;
+border: solid brown 2px;
+margin-top: 10px;
+text-align: center;
+justify-content: center;
+}
+#mid3row{
+    height: 85px;
+    width:150px;
+    border: solid green 2px;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
+#right3{
+    height: 85px;
+    width: 150px;
+    border: solid tomato 2px;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
+#bottombox{
+    height: 30px;
+    width: 450px;
+    border: solid 2px orangered;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: center;
+}
